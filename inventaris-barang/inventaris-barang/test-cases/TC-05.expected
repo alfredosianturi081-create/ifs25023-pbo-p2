@@ -1,0 +1,11 @@
+Berhasil menambah barang: 1 | Pensil | 50 | Alat Tulis
+Berhasil menambah barang: 2 | Buku | 20 | Alat Tulis
+Berhasil menambah barang: 3 | Mouse | 10 | Elektronik
+Berhasil menambah barang: 4 | Meja | 2 | Furnitur
+Daftar Barang (Terurut):
+2 | Buku | 20 | Alat Tulis
+4 | Meja | 2 | Furnitur
+3 | Mouse | 10 | Elektronik
+1 | Pensil | 50 | Alat Tulis
+Hasil Pencarian: "5"
+- Barang tidak ditemukan!
